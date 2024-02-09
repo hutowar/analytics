@@ -22,6 +22,7 @@ var swiper = new Swiper(".mySwiper", {
         clickable: true,
     },
 });
+
 // star rating
 
 const ratingItemsList = document.querySelectorAll('.rating-item');
